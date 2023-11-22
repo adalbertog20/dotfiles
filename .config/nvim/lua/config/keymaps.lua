@@ -5,3 +5,5 @@
 vim.keymap.set("n", "-", "<CMD>Oil<CR>", { desc = "Open parent directory" })
 -- Telescope File Browser
 vim.keymap.set("n", "<leader>fo", "<CMD>Telescope file_browser<CR>", { desc = "Open file browser" })
+
+vim.keymap.set("i", "jk", "<Esc>")
