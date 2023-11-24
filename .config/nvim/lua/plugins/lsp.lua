@@ -10,7 +10,7 @@ return {
         "shfmt",
         "tailwindcss-language-server",
         "typescript-language-server",
-        "intelephense",
+        "phpactor",
         "vue-language-server",
         "css-lsp",
       })
